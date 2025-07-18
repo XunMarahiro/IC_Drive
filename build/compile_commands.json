@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/Drive/build",
+  "command": "c:\\mingw64\\bin\\gcc.exe  @CMakeFiles/Drive.dir/includes_C.rsp -g -o CMakeFiles\\Drive.dir\\drive.c.obj -c C:\\Users\\Administrator\\Desktop\\Drive\\drive.c",
+  "file": "C:/Users/Administrator/Desktop/Drive/drive.c",
+  "output": "CMakeFiles/Drive.dir/drive.c.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/Drive/build",
+  "command": "c:\\mingw64\\bin\\gcc.exe  @CMakeFiles/Drive.dir/includes_C.rsp -g -o CMakeFiles\\Drive.dir\\lib\\max6675.c.obj -c C:\\Users\\Administrator\\Desktop\\Drive\\lib\\max6675.c",
+  "file": "C:/Users/Administrator/Desktop/Drive/lib/max6675.c",
+  "output": "CMakeFiles/Drive.dir/lib/max6675.c.obj"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/Drive/build",
+  "command": "c:\\mingw64\\bin\\gcc.exe  @CMakeFiles/Drive.dir/includes_C.rsp -g -o CMakeFiles\\Drive.dir\\lib\\power.c.obj -c C:\\Users\\Administrator\\Desktop\\Drive\\lib\\power.c",
+  "file": "C:/Users/Administrator/Desktop/Drive/lib/power.c",
+  "output": "CMakeFiles/Drive.dir/lib/power.c.obj"
+}
+]

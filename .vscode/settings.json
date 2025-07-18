@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "drive.h": "c",
+        "max6675.h": "c",
+        "stdio.h": "c"
+    }
+}

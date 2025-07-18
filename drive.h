@@ -1,0 +1,5 @@
+#include "stdio.h"
+#include "stdbool.h"
+#include "stdint.h"
+#include "lib/max6675.h"
+#include "lib/power.h"
