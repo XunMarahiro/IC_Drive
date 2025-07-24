@@ -1,12 +1,13 @@
 #include "max6675.h"
 uint16_t Max6675_data[2] = {0b0001111111111111, 0b0001111111111110};
-int Read_16bit_data(void)
+struct max6675 *TC1, *TC2;
+static int Read_16bit_data(void)
 {
     int value;
     return value;
 }
-void Set_bit(int pin) {}
-void clear_bit(int pin) {}
+static void Set_bit(int pin) {}
+static void clear_bit(int pin) {}
 
 void Update_TC(void)
 {

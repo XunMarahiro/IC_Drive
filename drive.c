@@ -1,5 +1,5 @@
 #include "drive.h"
 void main(void)
 {
-    Update_TC();
+    get_temp_data();
 }

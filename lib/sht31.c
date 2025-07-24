@@ -1,9 +1,10 @@
 #include "sht31.h"
 uint8_t sht31_data[6] = {0x01, 0x00, 0x02, 0x01, 0x00, 0x02};
-void write_8bit(int value)
+struct sht31_data *Data_base;
+static void write_8bit(int value)
 {
 }
-int read_8bit(void)
+static int read_8bit(void)
 {
     int value;
     return value;

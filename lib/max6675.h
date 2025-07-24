@@ -14,7 +14,7 @@ struct max6675
     uint16_t input : 1;
     uint16_t ID : 1;
     uint16_t State : 1;
-} *TC1, *TC2;
+};
 
 void Update_TC(void);
 

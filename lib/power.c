@@ -1,12 +1,13 @@
 #include "power.h"
-bool ReadIO(int pin)
+struct power syspower;
+static bool ReadIO(int pin)
 {
     return true;
 }
-void setout(int pin)
+static void setout(int pin)
 {
 }
-void clearout(int pin)
+static void clearout(int pin)
 {
 }
 int GetADC(int pin)

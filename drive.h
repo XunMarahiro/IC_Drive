@@ -3,3 +3,5 @@
 #include "stdint.h"
 #include "lib/max6675.h"
 #include "lib/power.h"
+#include "lib/sht31.h"
+#include "lib/mlx90614.h"
